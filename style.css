@@ -1,0 +1,76 @@
+
+body {
+  font-family: 'Sawarabi Mincho', serif;
+  font-weight: 100;
+    background-color: rgb(65, 57, 57);
+    color: white;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    
+  }
+  /* header styling */
+  header {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 28px;
+    color: #fff;
+    margin: 0;
+  }
+  h3{
+    font-family: 'Helvetica', sans-serif;
+    color: green;
+  }
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  /* heading styling */
+  .heading{
+    color: whitesmoke;
+    text-align: center;
+    background-color: #666;
+    border-radius: 50px;
+  }
+  /* lyrics styling */
+  .chorus{
+    font-family: 'Anton', sans-serif;
+    font-weight: 50;
+    font-size: medium;
+  }
+  /* refrain styling */
+  .refrain{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: large;
+    font-weight: 150;
+  }
+  section {
+    margin-bottom: 30px;
+  }
+  
+  section h3 {
+    font-size: 20px;
+    color: #666;
+  }
+  
+  section p {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  /* footer styling */
+  footer {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+    color: #fff;
+    margin: 0;
+  }
